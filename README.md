@@ -16,13 +16,12 @@
 <p align="left">
     <a href="https://devdocs.io/c/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=100&id=40670&format=png&color=000000" alt="C" width="45" height="45"/></a>
     <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://camo.githubusercontent.com/f49f96180583a503365d6987c00ae5fc0db6aa002e275684a71740a891802adc/68747470733a2f2f696d672e69636f6e73382e636f6d2f6e6f6c616e2f35342f707974686f6e2e706e67" width="45" height="45"/></a>
-    <a href="https://docs.godotengine.org/pt-br/4.x/tutorials/scripting/gdscript/gdscript_basics.html" target="_blank" rel="noreferrer"><img src="https://camo.githubusercontent.com/024f4ee030f1bf7349484356fa614cbf2a38366c70dfc5b14f50db3e8b6934b4/68747470733a2f2f696d672e69636f6e73382e636f6d2f6e6f6c616e2f35342f676f646f742e706e67" width="45" height="45"/></a>
 </p>
 
 <h3 align="left">| 📱 | Connect with me:</h3>
 <div align="left" dir="auto">
   <a href="mailto:victor.kauan@ufpi.edu.br"><img src="https://camo.githubusercontent.com/8a15df73eefc8d613bab8230d8859b6328119607d14846dd1f1e0e9b526126b2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d476d61696c2d2532333333333f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465" style="max-width: 100%;"></a>
-  <a href="https://www.linkedin.com/in/davi-soares-745776129/" rel="nofollow"><img src="https://camo.githubusercontent.com/d90c501c7f68295cfcab6a68b761ba5b1101292b8ac9895eaeca253df2e53eb3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c696e6b6564696e2d2532333030373742352e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" style="max-width: 100%;"></a> 
+  <a href="https://www.linkedin.com/in/victor-miranda-5005ab304/" rel="nofollow"><img src="https://camo.githubusercontent.com/d90c501c7f68295cfcab6a68b761ba5b1101292b8ac9895eaeca253df2e53eb3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c696e6b6564696e2d2532333030373742352e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" style="max-width: 100%;"></a> 
 
 </div>
 
