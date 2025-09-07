@@ -20,7 +20,7 @@
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=100&id=10878&format=png&color=000000" alt="JavaScript" width="45" height="45"/></a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" alt="HTML5" width="45" height="45"/></a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000" alt="CSS3" width="45" height="45"/></a>
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=100&id=121463&format=png&color=000000" alt="React" width="45" height="45"/></a>  
+    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="45" height="45"/></a>
 </p>
 
 <h3 align="left">| 📱 | Connect with me:</h3>
