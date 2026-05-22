@@ -1,37 +1,78 @@
-<h1 align="left">Hi, I'm Victor Kauan <img src="https://private-user-images.githubusercontent.com/74038190/238201079-e379a33a-b428-4385-b44f-3da16e7bac9f.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTQ0OTc3NTUsIm5iZiI6MTcxNDQ5NzQ1NSwicGF0aCI6Ii83NDAzODE5MC8yMzgyMDEwNzktZTM3OWEzM2EtYjQyOC00Mzg1LWI0NGYtM2RhMTZlN2JhYzlmLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA0MzAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNDMwVDE3MTczNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTRlMWRhMDNjMmM3ODEwM2Q3MTZhZWJkMGZhMzg3YTlhNDk3YjE4ZTI1YzVjM2QyZWVlZWI3YjFmOGVhNTkwOTcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.BFKQNhKHkjBYIi26Hrxpipsh-hdlqcCVDCatMU0qG7U" alt="welcome" width="40" height="40"/></h1>
+<div align="center">
 
-<p align="left">🌱 I’m currently studying higher education in Computer Science at Federal University of Piauí (UFPI). </p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=B91C1C,7F1D1D&height=180&section=header&text=Victor%20Kauan&fontSize=52&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Front-end%20Developer%20•%20Computer%20Science%20@%20UFPI&descAlignY=58&descSize=16" width="100%"/>
 
+<br/>
 
-<div style="display: flex; justify-content: space-between;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=victor-kauan-coder&theme=radical" alt="victor-kauan-coder" width="401" />
-    <img src="https://github-readme-stats.vercel.app/api?username=victor-kauan-coder&show_icons=true&locale=en&theme=radical" alt="victor-kauan-coder" width="380" />
-</div>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=EF4444&center=true&vCenter=true&width=550&lines=Hi+there!+Welcome+to+my+profile+%F0%9F%91%8B;Computer+Science+student+%40+UFPI;Front-end+Developer;Always+learning+new+things...)](https://git.io/typing-svg)
 
-<p align="left">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=victor-kauan-coder&show_icons=true&locale=en&layout=compact&theme=radical" style="position: relative;left: 100px;" alt="victor-kauan-coder" width="300">
-</p>
+<br/>
 
-<h3 align="left">| ‍💻 | Languages and Tools:</h3>
-<p align="left">
-    <a href="https://devdocs.io/c/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=100&id=40670&format=png&color=000000" alt="C" width="45" height="45"/></a>
-    <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://camo.githubusercontent.com/f49f96180583a503365d6987c00ae5fc0db6aa002e275684a71740a891802adc/68747470733a2f2f696d672e69636f6e73382e636f6d2f6e6f6c616e2f35342f707974686f6e2e706e67" width="45" height="45"/></a>
-   <a href="https://isocpp.org/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=100&id=40669&format=png&color=000000" alt="C++" width="45" height="45"/></a>
-   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45"/></a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" alt="HTML5" width="45" height="45"/></a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000" alt="CSS3" width="45" height="45"/></a>
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="45" height="45"/></a>
-</p>
-
-<h3 align="left">| 📱 | Connect with me:</h3>
-<div align="left" dir="auto">
-  <a href="mailto:victor.kauan@ufpi.edu.br"><img src="https://camo.githubusercontent.com/8a15df73eefc8d613bab8230d8859b6328119607d14846dd1f1e0e9b526126b2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d476d61696c2d2532333333333f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465" style="max-width: 100%;"></a>
-  <a href="https://www.linkedin.com/in/victor-miranda-5342a6337" rel="nofollow"><img src="https://camo.githubusercontent.com/d90c501c7f68295cfcab6a68b761ba5b1101292b8ac9895eaeca253df2e53eb3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c696e6b6564696e2d2532333030373742352e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" style="max-width: 100%;"></a> 
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d" width="380" alt="nerd coding gif"/>
 
 </div>
 
-<br>
+---
 
-<p align="left">
-    <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="785" height="400">
-</p>
+### About me
+
+- Studying Computer Science at the **Federal University of Piauí (UFPI)**
+- Currently focused on **front-end development** — HTML, CSS, JavaScript and React
+- Always learning and building projects that solve real problems
+- Open to collaborations and new opportunities
+
+---
+
+### Connect with me
+
+<div align="left">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-miranda-5342a6337)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:victor.kauan@ufpi.edu.br)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/victor-kauan-coder)
+
+</div>
+
+---
+
+### Languages and Tools
+
+<div align="left">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,python,java,swift,c,cpp&theme=dark&perline=9" />
+<br/>
+<img src="https://skillicons.dev/icons?i=django,flask,postgres,firebase&theme=dark&perline=9" />
+
+</div>
+
+---
+
+### GitHub Stats
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=victor-kauan-coder&theme=dark&hide_border=true&background=0D1117&ring=EF4444&fire=EF4444&currStreakLabel=EF4444&sideLabels=EF4444&dates=AAAAAA&sideNums=FFFFFF&currStreakNum=FFFFFF" height="165" alt="streak"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api?username=victor-kauan-coder&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=EF4444&icon_color=EF4444&text_color=FFFFFF&include_all_commits=true&count_private=true" height="165" alt="stats"/>
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=victor-kauan-coder&theme=dark&hide_border=true&bg_color=0D1117&title_color=EF4444&text_color=FFFFFF&layout=compact&langs_count=7" height="140" alt="top langs"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=victor-kauan-coder&bg_color=0D1117&color=EF4444&line=EF4444&point=FFFFFF&hide_border=true&area=true&area_color=7F1D1D" width="95%" alt="activity graph"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=B91C1C,7F1D1D&height=100&section=footer&animation=twinkling" width="100%"/>
+
+</div>
