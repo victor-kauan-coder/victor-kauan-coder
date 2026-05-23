@@ -1,78 +1,112 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4C0000,50:7F1D1D,100:B91C1C&height=180&section=header&text=Victor%20Kauan&fontSize=52&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Front-end%20Developer%20•%20Computer%20Science%20@%20UFPI&descAlignY=58&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Victor%20Kauan&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20%40%20UFPI%20%7C%20Fullstack%20Developer%20%7C%20AI%20Enthusiast&descSize=16&descAlignY=58&descColor=a78bfa" width="100%"/>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=EF4444&center=true&vCenter=true&width=550&lines=Hi+there!+Welcome+to+my+profile+%F0%9F%91%8B;Computer+Science+student+%40+UFPI;Front-end+Developer;Always+learning+new+things...)](https://git.io/typing-svg)
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=600&lines=Fullstack+Developer+%7C+AI+Enthusiast;Building+intelligent+and+scalable+applications;Computer+Science+student+%40+UFPI;Passionate+about+open+source+%26+community)](https://git.io/typing-svg)
+
+</div>
 
 <br/>
 
-<img src="https://i.pinimg.com/originals/64/72/36/647236fc1c3aec4ac575c4ed5a8ca524.gif" width="500" alt="coding gif"/>
-
-</div>
-
----
-
-### About me
-
-- Studying Computer Science at the **Federal University of Piauí (UFPI)**
-- Currently focused on **front-end development** — HTML, CSS, JavaScript and React
-- Always learning and building projects that solve real problems
-- Open to collaborations and new opportunities
-
----
-
-### Connect with me
-
-<div align="left">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-miranda-5342a6337)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:victor.kauan@ufpi.edu.br)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/victor-kauan-coder)
-
-</div>
-
----
-
-### Languages and Tools
-
-<div align="left">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react,python,java,swift,c,cpp&theme=dark&perline=9" />
-<br/><br/>
-<img src="https://skillicons.dev/icons?i=django,flask,postgres,firebase&theme=dark&perline=9" />
-
-</div>
-
----
-
-### GitHub Stats
-
 <div align="center">
+<img src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif" width="100%" alt="dev gif"/>
+</div>
 
-<img src="https://streak-stats.demolab.com?user=victor-kauan-coder&theme=dark&hide_border=true&background=0D1117&ring=EF4444&fire=EF4444&currStreakLabel=EF4444&sideLabels=EF4444&dates=888888&sideNums=FFFFFF&currStreakNum=FFFFFF" height="165"/>
+<br/>
+
+---
+
+### &nbsp; About me
+
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=victor-kauan-coder&show_icons=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&include_all_commits=true&count_private=true&rank_icon=github" height="175"/>
+
+&nbsp;&nbsp; **`Computer Science — UFPI, Teresina — PI`**
+
+&nbsp;&nbsp; Fullstack developer with a strong focus on building  
+&nbsp;&nbsp; complete, scalable and well-designed applications —  
+&nbsp;&nbsp; from the database layer to the final user interface.
+
+&nbsp;&nbsp; Enthusiast of **Artificial Intelligence** and its practical  
+&nbsp;&nbsp; applications in real-world software products.  
+&nbsp;&nbsp; Currently exploring machine learning concepts,  
+&nbsp;&nbsp; LLMs and AI-powered tools.
+
+&nbsp;&nbsp; Active in the **open source community**, believing  
+&nbsp;&nbsp; that knowledge and code should be shared  
+&nbsp;&nbsp; and built collectively.
+
+&nbsp;&nbsp; Always looking to grow, collaborate and contribute  
+&nbsp;&nbsp; to projects that make a real difference.
+
+<br/>
+
+---
+
+### &nbsp; Tech Stack
+
+<div align="left">
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api?username=victor-kauan-coder&show_icons=true&hide_border=true&bg_color=0D1117&title_color=EF4444&icon_color=EF4444&text_color=FFFFFF&include_all_commits=true&count_private=true&rank_icon=github" height="165"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,python,java,swift,c,cpp&theme=dark&perline=9" />
+<br/>&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=django,flask,postgres,firebase&theme=dark&perline=9" />
+</div>
 
-<br/><br/>
+<br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=victor-kauan-coder&hide_border=true&bg_color=0D1117&title_color=EF4444&text_color=FFFFFF&layout=compact&langs_count=7&hide=jupyter%20notebook" height="140"/>
+---
+
+### &nbsp; GitHub Stats
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=victor-kauan-coder&hide_border=true&background=0d1117&ring=a78bfa&fire=7c3aed&currStreakLabel=a78bfa&sideLabels=a78bfa&dates=6b7280&sideNums=e5e7eb&currStreakNum=e5e7eb" height="155"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=victor-kauan-coder&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&layout=compact&langs_count=6&hide=jupyter%20notebook" height="155"/>
 
 </div>
+
+<br/>
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=victor-kauan-coder&bg_color=0d1117&color=a78bfa&line=7c3aed&point=a78bfa&hide_border=true&area=true&area_color=302b63" width="94%"/>
+</div>
+
+<br/>
+
+---
+
+### &nbsp; Connect with me
+
+<div align="left">
+
+<a href="https://www.linkedin.com/in/victor-miranda-5342a6337" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-victor--miranda-%230d1117?style=for-the-badge&logo=linkedin&logoColor=a78bfa&labelColor=0d1117&color=0d1117" alt="LinkedIn"/>
+</a>
+&nbsp;
+<a href="mailto:victor.kauan@ufpi.edu.br" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-victor.kauan%40ufpi.edu.br-%230d1117?style=for-the-badge&logo=gmail&logoColor=a78bfa&labelColor=0d1117&color=0d1117" alt="Gmail"/>
+</a>
+&nbsp;
+<a href="https://github.com/victor-kauan-coder" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-victor--kauan--coder-%230d1117?style=for-the-badge&logo=github&logoColor=a78bfa&labelColor=0d1117&color=0d1117" alt="GitHub"/>
+</a>
+
+</div>
+
+<br/>
 
 ---
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=victor-kauan-coder&bg_color=0D1117&color=EF4444&line=EF4444&point=FFFFFF&hide_border=true&area=true&area_color=7F1D1D" width="95%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg"/>
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg"/>
+</picture>
 
 </div>
 
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:B91C1C,50:7F1D1D,100:4C0000&height=120&section=footer&animation=twinkling" width="100%"/>
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=130&section=footer&animation=fadeIn" width="100%"/>
